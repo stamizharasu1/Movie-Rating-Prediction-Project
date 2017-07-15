@@ -1,4 +1,4 @@
-# Movie-Rating-Predicton-Project
+# Movie-Rating-Prediction-Project
 This is a project written in Python that, given some training data, predicts a set of movie ratings for users, based on the movies they liked.
 
 The given training data is first read in and stored using numpy arrays.
